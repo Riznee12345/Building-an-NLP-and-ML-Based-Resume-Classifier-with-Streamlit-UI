@@ -1,4 +1,4 @@
-# Resume Classifier with NLP, ML, and Streamlit UI 🚀🚀
+# Resume Classifier with NLP, ML, and Streamlit UI 🚀🚀🚀
 
 A machine learning-based web application that classifies resumes into predefined job categories using Natural Language Processing (NLP). Built with Python, Scikit-learn, and Streamlit, this tool helps recruiters quickly identify candidates based on resume content.
 ![Screenshot 2025-04-27 200217](https://github.com/user-attachments/assets/ce47ba31-a4ca-4d32-a3e7-83f4bd6ed6bb)
